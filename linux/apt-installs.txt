@@ -1,0 +1,13 @@
+gitk
+tree
+mlocate
+htop
+xclip
+git
+vim
+tmux
+
+cmake
+build-essential
+systemd-coredumpctl
+gdb
