@@ -6,6 +6,10 @@ xclip
 git
 vim
 tmux
+ffmpeg
+ncdu
+zsh-dev
+vlc
 
 cmake
 build-essential
